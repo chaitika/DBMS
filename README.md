@@ -1,0 +1,2 @@
+# DBMS
+All DBMS assignment. CHAITIKA BHATNAGAR
